@@ -1,0 +1,210 @@
+#topnav-background1{
+  display: block;
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../public/img/topnav/background2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#topnav-background2{
+  display: block;
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../public/img/topnav/background3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#topnav-background3{
+  display: block;
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../public/img/topnav/background4.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+#topnav-title{
+  padding-left: 200px;
+  padding-top: 3vh;
+  padding-bottom: 6vh;
+  color: #fff; 
+  font-size: 74px;
+  font-weight: 600;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#topnav-subtitle{
+  padding-left: 200px;
+  color: #fff; 
+  font-size: 34px; /* 텍스트 크기 정 */
+  font-weight: 500; /* 텍스트 굵기 설정 */
+}
+
+#topnav-subtitle-blue {
+  padding-top: 30vh;
+  padding-left: 200px;
+  font-size: 34px;
+  font-weight: 900;
+  background: linear-gradient(to right, #fff 0%, #01d1ff 50%);
+  color: transparent;
+  -webkit-background-clip: text;
+}
+
+#topnav-subtitle-blue2{
+  padding-top: 30vh;
+  padding-left: 200px;
+  font-size: 34px;
+  font-weight: 900;
+  background: linear-gradient(to right, #fff 0%, #0061e0 50%);
+  color: transparent;
+  -webkit-background-clip: text;
+}
+
+#topnav-subtitle-blue3{
+  padding-top: 30vh;
+  padding-left: 200px;
+  font-size: 34px;
+  font-weight: 900;
+  background: linear-gradient(to right, #fff 0%, #38b6ff 50%);
+  color: transparent;
+  -webkit-background-clip: text;
+}
+
+
+@media screen and (max-width: 1660px) {
+  #topnav-title{
+    padding-left: 100px;
+    font-size: 54px;
+  }
+  
+  #topnav-subtitle{
+    padding-left: 100px;
+    font-size: 24px; 
+  }
+  
+  #topnav-subtitle-blue {
+    padding-left: 100px;
+    font-size: 24px; 
+  }
+
+  #topnav-subtitle-blue2{
+    padding-left: 100px;
+    font-size: 24px; 
+  }
+
+  #topnav-subtitle-blue3{
+    padding-left: 100px;
+    font-size: 24px; 
+  }
+  
+
+}
+
+@media screen and (max-width: 1180px) {
+
+  #topnav-title{
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    font-size: 54px;
+  }
+  
+  #topnav-subtitle{
+    padding-left: 100px;
+    font-size: 24px; 
+  }
+  
+  #topnav-subtitle-blue {
+    padding-top: 30vh;
+    padding-left: 100px;
+    font-size: 24px;
+  }
+
+  #topnav-subtitle-blue2{
+    padding-top: 30vh;
+    padding-left: 100px;
+    font-size: 24px;
+  }
+  
+  #topnav-subtitle-blue3{
+    padding-top: 30vh;
+    padding-left: 100px;
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #topnav-title{
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 34px;
+    white-space: wrap;
+    margin-right: 20px;
+  }
+  
+  #topnav-subtitle{
+    padding-left: 50px;
+    font-size: 24px; 
+  }
+  
+  #topnav-subtitle-blue {
+    padding-top: 30vh;
+    padding-left: 50px;
+    font-size: 24px;
+  }
+
+  #topnav-subtitle-blue2 {
+    padding-top: 30vh;
+    padding-left: 50px;
+    font-size: 24px;
+  }
+
+  
+  #topnav-subtitle-blue3 {
+    padding-top: 30vh;
+    padding-left: 50px;
+    font-size: 24px;
+  }
+  
+}
+
+@media screen and (max-width:580px) {
+
+  #topnav-title{
+    max-width: 400px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 32px;
+    white-space: wrap;
+    margin-right: 20px;
+  }
+  
+  #topnav-subtitle{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 22px; 
+  }
+  
+  #topnav-subtitle-blue {
+    padding-top: 30vh;
+    padding-left: 20px;
+    font-size: 22px;
+  }
+
+  #topnav-subtitle-blue2 {
+    padding-top: 30vh;
+    padding-left: 20px;
+    font-size: 22px;
+  }
+
+  #topnav-subtitle-blue3 {
+    padding-top: 30vh;
+    padding-left: 20px;
+    font-size: 22px;
+  }
+}

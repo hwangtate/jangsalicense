@@ -1,0 +1,73 @@
+/*푸터부분*/
+footer{
+  height: auto;
+  background-color: #333;
+}
+
+#footer-logo{
+  font-family: 'East Sea Dokdo', sans-serif;
+  padding: 0;
+  font-size: 68px;
+  color: #fcfcfc;
+  padding-left: 200px;
+  padding-top: 50px;
+}
+
+#footer-text{
+  font-size: 18px;
+  font-weight: 400;
+  padding-left: 200px;
+  padding-top: 20px;
+  padding-bottom: 70px;
+  color: #fcfcfc;
+}
+
+#footer-text a{
+  text-decoration: none;
+  color: #fcfcfc;
+}
+
+#footer-text a:hover{
+  border-bottom: 1px solid #fcfcfc;
+}
+
+@media screen and (max-width: 1660px) {
+  #footer-logo{
+    padding-left: 100px;
+  }
+  
+  #footer-text{
+    padding-left: 100px;
+  }
+  
+}
+
+@media screen and (max-width: 800px) {
+  #footer-logo{
+    padding-left: 30px;
+  }
+  
+  #footer-text{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+}
+
+@media screen and (max-width: 580px) {
+  #footer-logo{
+    font-size: 48px;
+    padding-left: 20px;
+  }
+  
+  #footer-text{
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+}
+
+
+
+

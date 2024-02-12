@@ -58,14 +58,15 @@ function About() {
         <p className='about-text2'>
           저는 2년전까지 <p className='ab-la-st'>웹사이트 제작과 데이터 분석 및 시스템 개발 사업을</p> 하고 있었습니다.<br/><br/><br/>
 
-          제 사촌이 운영하던 카페에서 <p className='ab-la-st'>2호점을 준비할때</p> 솔루션이 필요한 부분이 있어,<br/>
-          컨설턴트와 상담을 했지만 위에서 말했던 <p className='ab-la-st'>문제들을 겪게 되었습니다.</p><br/><br/><br/>
+          제 사촌이 운영하던 카페가 <p className='ab-la-st'>적자가 심하게 나고 있어,</p><br/>
+          컨설턴트와 상담을 했지만 여전히 <p className='ab-la-st'>적자가 심하게 났습니다.</p><br/><br/><br/>
 
-          이런 문제들을 해결하고자, <p className='ab-la-st'>4명의 프랜차이즈 대표님들과</p> 이야기를 나누었습니다.<br/>
-          그러다 저희는 생각했습니다.  <p className='ab-la-st1'>"아 그냥 이걸 다 시스템화 시키면 좋을텐데..."</p><br/><br/><br/>
-
-          마침 제가 데이터 분석 및 시스템 개발 사업을 하고 있었기에 <p className='ab-la-st'>8700시간을</p> 들여 시스템을 만들어낼수 있었습니다.<br/>
-          시스템을 만들수 있게 약 <p className='ab-la-st'>130번의 회의와 점검</p> 그리고 <p className='ab-la-st'>2000시간을 투자해주신 대표님들께 다시 한 번 감사드립니다.</p>
+          이를 해결하고자, <p className='ab-la-st'>2명의 프랜차이즈 대표님들과</p> 꾸준한 상담을 하며 적자를 해결했고 매출까지 올리는 데 성공합니다.<br/>
+          그러다 저희는 생각했습니다.  <p className='ab-la-st1'>"꾸준하고 친절한 솔루션이면 모든 가게가 드라마틱하게 바뀔 수 있구나."</p><br/><br/><br/>
+          
+          그렇게 저는 <p className='ab-la-st'>모두에게 적용 가능</p>하고 <p className='ab-la-st'>매출이 확실히 오르는 솔루션</p>을 만들고자 했습니다.<br/>
+          마침 제가 데이터 분석 및 시스템 개발 사업을 하고 있었기에 <p className='ab-la-st'>8700시간을</p> 들여 솔루션을 만들어낼수 있었습니다.<br/>
+          솔루션을 만들수 있게 약 <p className='ab-la-st'>130번의 회의와 점검</p> 그리고 <p className='ab-la-st'>2000시간을 투자해주신 대표님들께 다시 한 번 감사드립니다.</p>
         </p>
         <h3 className='about-last-title'>
          현재까지 5개의 가게에 도입을 했고, <p className='ab-la-st1'>그 결과 5개 가게 모두 성공적으로 매출을 끌어 올릴수 있었습니다.</p>

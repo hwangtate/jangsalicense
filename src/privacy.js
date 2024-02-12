@@ -44,9 +44,9 @@ function Privacy(){
       <br/><br/>
       성명 : 황태영
       <br/><br/>
-      연락처 : 000-0000-0000
+      연락처 : 010-7496-3504
       <br/><br/>
-      이메일 : 
+      이메일 : help@jangsalicense.com
       <br/><br/><br/><br/><br/>
       <h2 className='strongtext10'>9. 변경사항의 고지</h2><br/>
       본 개인정보 처리방침은 2024년 1월 23일부터 시행됩니다.

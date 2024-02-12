@@ -89,8 +89,8 @@ function Solution() {
       </div>
       <div className='solution-container2'>
         <h2 className='solution-title'>
-          길게 말 안하겠습니다.<br/>
-          <p className='solution-strong-blue'>검증된 솔루션으로</p> 이미 <p className='solution-strong-blue'>효과를</p> 보고 있습니다.
+          검증된 <p className='solution-strong-blue'>반프랜차이즈(솔루션)</p>으로<br/>
+          이미 <p className='solution-strong-blue'>효과를</p> 보고 있습니다.
         </h2>
         <div className='solution-container2-box'>
           <img src="/img/gra/a.png" className='solution-box-img2' alt="사진" />

@@ -86,8 +86,8 @@ function Home() {
             
             <div className='fourth-size'>
               <div className='fourth-size-box'>
-                <h2 className='fourth-title'>이미 검증된 <p className='home-color1'>솔루션 시스템</p></h2>
-                <h2 className='fourth-subtitle'>5개의 가게에 솔루션 시스템을 도입한 결과,<br/>6개월 내로 월 매출이 <p className='fourth-strong'>최대 4배 상승했습니다.</p></h2>
+                <h2 className='fourth-title'>이미 검증된 <p className='home-color1'>솔루션</p></h2>
+                <h2 className='fourth-subtitle'>5개의 가게에 반프랜차이즈(솔루션)을 도입한 결과,<br/>6개월 내로 월 매출이 <p className='fourth-strong'>최대 4배 상승했습니다.</p></h2>
               </div>
             </div>
 

@@ -27,14 +27,13 @@ function Service() {
           <p className='service-num'>1</p> 지속적인 솔루션과 대행으로 <p className='service-st1'>확실한 매출을 보장하고</p>
         </p>
         <p className='service-text'>
-          <p className='service-num'>2</p> 로열티만 받으므로써 <p className='service-st1'>순수익을 높였고</p>
+          <p className='service-num'>2</p> 로열티만 받으므로써 고객님의 <p className='service-st1'>순수익을 높였고</p>
         </p>       
         <p className='service-text'>
           <p className='service-num'>3</p> 높은 자유도와 짧은 계약 기간으로 <p className='service-st1'>자신만의 브랜드</p>를 만들 수 있습니다.
         </p>
         <p className='service-text3'>
-          저희는 고객님의 성공을 최우선으로 생각하기에 
-          저희 솔루션을 통해 실제로 매출 증진에 큰 도움이 될 수 있는 고객님과만 계약을 맺고 있습니다.
+          저희는 고객님의 성공을 최우선으로 생각하기에 돈을 받는 일회성 솔루션은 운영하지 않습니다.
         </p>
       </div>
       <a href='https://forms.gle/ibcdRxyTg4oCrJfz6'>

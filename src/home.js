@@ -45,40 +45,28 @@ function Home() {
         </div>
         <div className='third-container'>
           <div className='third-box' data-aos="fade-up">
-            <img src="/img/thr/img1.png" className='third-img' alt="사진" />
-            <h2 className='third-title'><p className='home-color1'>상권</p>의 중요성과 돌파방법</h2>
-            <p className='third-subtitle'>상권이 이미 좋지 않으신가요 ? <br/>상권이 좋지 않아도 매출을 올릴 수 있는 돌파 방법을 알려드립니다.</p>
-            <Link to={'/'} className='third-link'>관련 블로그 읽으러 가기&nbsp;&nbsp;➜</Link>
+            <img src="/img/thr/imgg4.png" className='third-img' alt="사진" />
+            <h2 className='third-title'><p className='home-color1'>상권분석</p>과 메뉴선정</h2>
+            <p className='third-subtitle'>상권이 이미 좋지 않으신가요?<br/>상권이 좋지 않아도 매출을 올릴 수 있는 돌파 방법을 알려드립니다.</p>
+            <Link to={'https://blog.naver.com/jangsalicense/223360545507'} className='third-link'>관련 블로그 읽으러 가기&nbsp;&nbsp;➜</Link>
           </div>
           <div className='third-box' data-aos="fade-up">
-            <img src="/img/thr/img2.jpg" className='third-img' alt="사진" />
-            <h2 className='third-title'>완벽한 <p className='home-color1'>인테리어</p>란 무엇일까 ?</h2>
+            <img src="/img/thr/imgg1.png" className='third-img' alt="사진" />
+            <h2 className='third-title'>매출을 올리는 3가지 <p className='home-color1'>인테리어 전략</p></h2>
             <p className='third-subtitle'>가게의 인테리어는 가게의 얼굴입니다.<br/>내 가게의 인테리어는 완벽한지 확인해 보세요.</p>
-            <Link to={'/'} className='third-link'>관련 블로그 읽으러 가기&nbsp;&nbsp;➜</Link>
+            <Link to={'https://blog.naver.com/jangsalicense/223358320235'} className='third-link'>관련 블로그 읽으러 가기&nbsp;&nbsp;➜</Link>
           </div>
           <div className='third-box' data-aos="fade-up">
-            <img src="/img/thr/img3.jpg" className='third-img' alt="사진" />
-            <h2 className='third-title'>내 가게는 과연 <p className='home-color1'>청결</p>할까 ?</h2>
-            <p className='third-subtitle'>가게를 깨끗하게 유지하는 것은 선택이 아닌 필수입니다.<br/>지금 가게가 깨끗한지 확인해 보세요.</p>
-            <Link to={'/'} className='third-link'>관련 블로그 읽으러 가기&nbsp;&nbsp;➜</Link>
+            <img src="/img/thr/imgg3.png" className='third-img' alt="사진" />
+            <h2 className='third-title'>식당 자영업 <p className='home-color1'>마케팅</p> 방법</h2>
+            <p className='third-subtitle'>상권, 인테리어, 청결, 태도, 음식까지 완벽하다면,<br/>이제는 마케팅만 잘한다면 매출을 확실히 끌어올릴 수 있습니다.</p>
+            <Link to={'https://blog.naver.com/jangsalicense/223355460694'} className='third-link'>관련 블로그 읽으러 가기&nbsp;&nbsp;➜</Link>
           </div>
           <div className='third-box' data-aos="fade-up">
-            <img src="/img/thr/img4.jpg" className='third-img' alt="사진" />
+            <img src="/img/thr/imgg2.png" className='third-img' alt="사진" />
             <h2 className='third-title'>단골 손님을 만드는 <p className='home-color1'>태도</p>는 무엇일까 ?</h2>
             <p className='third-subtitle'>일단 손님과 친해지세요.<br/>단골 손님을 만드는 가장 쉬운 방법입니다.</p>
-            <Link to={'/'} className='third-link'>관련 블로그 읽으러 가기&nbsp;&nbsp;➜</Link>
-          </div>
-          <div className='third-box' data-aos="fade-up">
-            <img src="/img/thr/img5.jpg" className='third-img' alt="사진" />
-            <h2 className='third-title'>맛있는 <p className='home-color1'>음식</p>이란 뭘까 ?</h2>
-            <p className='third-subtitle'>단순히 맛만 있으면 되는 거 아닌가 ?<br/>아닙니다, 맛있는 음식의 본질을 알려드립니다.</p>
-            <Link to={'/'} className='third-link'>관련 블로그 읽으러 가기&nbsp;&nbsp;➜</Link>
-          </div>
-          <div className='third-box' data-aos="fade-up">
-            <img src="/img/thr/img6.jpg" className='third-img' alt="사진" />
-            <h2 className='third-title'>매출을 끌어올리는 <p className='home-color1'>마케팅</p> 방법</h2>
-            <p className='third-subtitle'>상권, 인테리어, 청결, 태도, 음식까지 완벽하다면,<br/>이제는 마케팅만 잘한다면 매출을 확실히 끌어올릴 수 있습니다.</p>
-            <Link to={'/'} className='third-link'>관련 블로그 읽으러 가기&nbsp;&nbsp;➜</Link>
+            <Link to={'https://blog.naver.com/jangsalicense/223359411922'} className='third-link'>관련 블로그 읽으러 가기&nbsp;&nbsp;➜</Link>
           </div>
           </div> 
         {/* 세번째 */}

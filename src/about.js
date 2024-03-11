@@ -50,7 +50,7 @@ function About() {
         </h3>
       </div>
       {/* 두번쨰 */}
-      <div className='about-container2'>
+      {/* <div className='about-container2'>
         <h3 className='about-title2'>
           잠시, 제 이야기를 하고자 합니다.
         </h3>
@@ -77,7 +77,7 @@ function About() {
           이곳에 지금 문의하지 않으셔도 좋습니다. 저희 유튜브, 블로그 등을 보시면서 최대한 도움이 되셨으면 합니다.
         </p>
         </p>
-      </div>
+      </div> */}
       <Com />
       <Bottomnav/>
     </main>

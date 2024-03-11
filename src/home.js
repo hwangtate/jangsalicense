@@ -70,7 +70,7 @@ function Home() {
           </div>
           </div> 
         {/* 세번째 */}
-          <div className='fourth-container'>
+          {/* <div className='fourth-container'>
             
             <div className='fourth-size'>
               <div className='fourth-size-box'>
@@ -99,7 +99,7 @@ function Home() {
               </Slider>
             </div>
 
-          </div>
+          </div> */}
           {/* 네번째 */}
           <div className='fifth-container'>
             <h1 className='fifth-title'>장사면허에서는 <p className='home-color1'>반프랜차이즈</p> 전략으로<br/>상호이익 관계를 추구합니다.</h1>

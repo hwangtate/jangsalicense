@@ -87,7 +87,7 @@ function Solution() {
         </div>
 
       </div>
-      <div className='solution-container2'>
+      {/* <div className='solution-container2'>
         <h2 className='solution-title'>
           검증된 <p className='solution-strong-blue'>반프랜차이즈(솔루션)</p>으로<br/>
           이미 <p className='solution-strong-blue'>효과를</p> 보고 있습니다.
@@ -103,7 +103,7 @@ function Solution() {
         
           <img src="/img/gra/e.png" className='solution-box-img2' alt="사진" />
         </div>
-      </div>
+      </div> */}
 
       <Com/>
     </main>

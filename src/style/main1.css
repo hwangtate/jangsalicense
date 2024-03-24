@@ -1,0 +1,22 @@
+#main1-background{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #14DA9E;
+  width: 100%;
+  height: auto;
+  padding-top: 15vh;
+  padding-bottom: 10vh;
+}
+
+#main1-background img{
+  max-width: 90%;
+  height: auto;
+}
+
+#main1-img2{
+}
+
+#main1-img3{
+  margin-top: 2vh;
+}

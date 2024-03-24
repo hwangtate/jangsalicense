@@ -1,0 +1,29 @@
+.main6-background{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f1f1f1;
+    width: 100%;
+    height: auto;
+    padding-top: 15vh;
+    padding-bottom: 10vh;
+  }
+  
+  
+  .main6-background img{
+    max-width: 90%;
+    height: auto;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  .main6-img1{
+    margin-bottom: 5vh;
+  }
+  
+  .main6-img2{
+    margin-bottom: 4vh;
+  }
+  
+  .main6-img3:hover{
+    transform: scale(1.05);
+  }

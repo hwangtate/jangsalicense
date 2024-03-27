@@ -1,0 +1,33 @@
+.main5-background{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e9fbff;
+    width: 100%;
+    height: auto;
+    padding-top: 15vh;
+    padding-bottom: 10vh;
+  }
+  
+  
+  .main5-background img{
+    max-width: 90%;
+    height: auto;
+  }
+  
+  .main5-img1{
+    margin-bottom: 5vh;
+  }
+  
+  .main5-img2{
+    margin-bottom: 4vh;
+  }
+
+  .main5-img3{
+    margin-bottom: 4vh;
+  }
+
+  .main5-img4{
+    margin-bottom: 4vh;
+  }
+  

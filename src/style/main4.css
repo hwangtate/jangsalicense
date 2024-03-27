@@ -3,10 +3,6 @@
     flex-direction: column;
     align-items: center;
     background-color: #fff;
-    background-image: url('/public/img/main4/deco.png');
-    background-size: contain; 
-    background-repeat: no-repeat;
-    background-position: right;
     width: 100%;
     height: auto;
     padding-top: 10vh;

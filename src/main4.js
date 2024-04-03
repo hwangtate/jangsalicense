@@ -7,7 +7,7 @@ function Main4() {
       <div className='main4-background'>
         <img src='img/main4/text1.png' className='main4-img1' alt='이미지'/>
         <img src='img/main4/text2.png' className='main4-img2'alt='이미지' />
-        <img src='img/main4/text3.png' className='main4-img3' alt='이미지'/>
+        <img src='img/main4/text4.png' className='main4-img3' alt='이미지'/>
         <img src='img/main4/text6.png' className='main4-img4' alt='이미지'/>
         <img src='img/main4/text7.png' className='main4-img5' alt='이미지'/>
       </div>

@@ -6,9 +6,8 @@ function Main2() {
     <>
       <div className='main2-background'>
         <img src='img/main2/title1.png' className='main2-img1' alt='이미지'/>
-        <img src='img/main2/text1.png' className='main2-img2' alt='이미지' />
-        <img src='img/main2/text2.png' className='main2-img3' alt='이미지'/>
-        <img src='img/main2/title2.png' className='main2-img4'  alt='이미지'/>
+        <img src='img/main2/main2-1.png' className='main2-img3' alt='이미지' />
+        <img src='img/main2/title3.png' className='main2-img4'  alt='이미지'/>
       </div>
     </>
   );

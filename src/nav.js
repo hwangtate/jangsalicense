@@ -56,7 +56,7 @@ function Nav() {
             </a>
 
             <a href='https://forms.gle/ibcdRxyTg4oCrJfz6' className='nav-text'>
-              문의하기
+              상담 신청하기
             </a>
 
           </div>
@@ -76,7 +76,7 @@ function Nav() {
                 </a>
 
               <a href='https://forms.gle/ibcdRxyTg4oCrJfz6' onClick={handleNavLinkClick}>
-                문의하기
+                상담 신청하기
               </a>
             </div>
           </div>
